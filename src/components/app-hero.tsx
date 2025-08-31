@@ -21,3 +21,4 @@ export function AppHero({
     </div>
   )
 }
+export class AppHeroProps {}

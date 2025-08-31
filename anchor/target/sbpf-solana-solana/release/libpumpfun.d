@@ -1,0 +1,1 @@
+/Users/chenwei/git_projects/solana_projects/push_git/pumpfun/anchor/target/sbpf-solana-solana/release/libpumpfun.rlib: /Users/chenwei/git_projects/solana_projects/push_git/pumpfun/anchor/programs/pumpfun/src/lib.rs
